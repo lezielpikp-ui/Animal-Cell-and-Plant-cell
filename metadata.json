@@ -1,0 +1,6 @@
+{
+  "name": "Cell Explorer: Journey Inside Living Cells",
+  "description": "An interactive living cells learning game for primary scientists to explore animal and plant cells, organelle nicknames, matching challenges, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
